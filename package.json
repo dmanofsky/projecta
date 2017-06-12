@@ -1,0 +1,22 @@
+{
+  "name": "projecta",
+  "version": "1.0.0",
+  "description": "test projecta",
+  "main": "index.js",
+  "scripts": {
+    "test": "123+456"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmanofsky/projecta.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Douglas Manofsky",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dmanofsky/projecta/issues"
+  },
+  "homepage": "https://github.com/dmanofsky/projecta#readme"
+}
